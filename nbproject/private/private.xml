@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Data_Per_Dokter.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/Aplikasi.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllRegistrasiPasienInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/Database.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllCreateRuangan.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Ubah_Data_Dokter.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Ubah_Profil_Petugas_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllLihatPasInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/DataPasienInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Registrasi_Data_Dokter.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Kelola_Data_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Kelola_Data_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Ubah_Data_Dokter_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/MenuUtama_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/CreateRuangan.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/PasienInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ViewRuanganController.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Lihat_Dokter_Keseluruhan.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllKelolaRuangan.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/LogIn.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Ubah_Profil_Petugas.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Hapus_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllDataPasienInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Kelola_Pasien_Inap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Regis_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllCheckout.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/LogInController.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControlUpdatePasienInap.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/Dokter.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Kelola_Data_Dokter_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/Petugas.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/HapusRuangan.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Update_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/View_Pasien.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Menu_Utama.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Model/RumahSakit.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Regis_Petugas.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Hapus_Data_Dokter_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Regis_PetugasController.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/HapusRuanganController.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/Registrasi_Dokter_Controller.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/View/Kelola_Data_Dokter.java</file>
+            <file>file:/E:/194400_SistemRawatInap%20V.0.2%5BTerbaru%5D/SistemRawatInap%20V.0.2/SistemRawatInap%20V.0.2/src/Controller/ControllUpdateRuangan.java</file>
+        </group>
+    </open-files>
+</project-private>
